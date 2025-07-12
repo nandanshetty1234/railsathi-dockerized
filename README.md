@@ -1,4 +1,4 @@
- RailSathi Dockerized 🚂
+ RailSathi Dockerized 
  Setup Instructions
 
  Clone the repo:
