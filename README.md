@@ -1,8 +1,7 @@
-# RailSathi Dockerized 🚂
+ RailSathi Dockerized 🚂
+ Setup Instructions
 
-## 🔧 Setup Instructions
-
-1. Clone the repo:
+ Clone the repo:
    ```bash
    git clone https://github.com/nandanshetty1234/railsathi-dockerized.git
    cd railsathi-dockerized
@@ -20,7 +19,7 @@ http://localhost:8000/ ➝ Welcome message
 
 http://localhost:8000/items/ ➝ JSON API
 
-📦 Tech Stack
+Tech Stack
 Python 3.10
 
 Django 5.2
@@ -28,8 +27,9 @@ Django 5.2
 PostgreSQL 14
 
 Docker + Docker Compose
-
-✅ Features
+ 
+ 
+ Features
 Dockerized Django app
 
 PostgreSQL container
